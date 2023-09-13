@@ -1,0 +1,12 @@
+git clone https://github.com/Harishkumarmc/repo15.git
+ls
+cd repo15
+ls
+touch file1
+ls
+git status
+git add file1
+git status
+git commit -m "practical part"
+git status
+git push
