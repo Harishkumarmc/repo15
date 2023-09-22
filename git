@@ -4,9 +4,9 @@ cd repo15
 ls
 touch file1
 ls
-git status
+git status hf
 git add file1
-git status
+git status hfh
 git commit -m "practical part"
 git status
 git push
